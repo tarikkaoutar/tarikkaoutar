@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [automationarchitech](http://automationarchitech.com/)
 
-- 🌱 I’m currently learning **LangChain , Blockchain**
+- 🌱 I’m currently learning **LangChain , TypeScript**
 
 - 📝 I regularly write articles on [https://medium.com/@mr.tarik098](https://medium.com/@mr.tarik098)
 
-- 💬 Ask me about **LangChain , Data Backend , Blockchain**
+- 💬 Ask me about **LangChain , Data Backend , Ai Systems**
 
 - 📫 How to reach me **mr.tarik098@gmail.com**
 
